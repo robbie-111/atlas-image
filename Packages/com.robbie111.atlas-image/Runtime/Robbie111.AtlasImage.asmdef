@@ -1,0 +1,14 @@
+{
+    "name": "Robbie111.AtlasImage",
+    "rootNamespace": "Robbie111.AtlasImage",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

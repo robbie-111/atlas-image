@@ -1,0 +1,16 @@
+{
+    "name": "Robbie111.AtlasImage.Sample",
+    "rootNamespace": "Robbie111.AtlasImage.Samples",
+    "references": [
+        "GUID:153531aa335e642b7bae162c97115e41"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

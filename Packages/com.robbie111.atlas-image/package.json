@@ -1,0 +1,30 @@
+{
+    "name": "com.robbie111.atlas-image",
+    "version": "1.0.0",
+    "displayName": "UI Atlas Image",
+    "description": "A uGUI graphic component that draws sprites from a SpriteAtlas by name, with an inspector sprite picker, border editor, and Image-to-AtlasImage conversion tools.",
+    "unity": "6000.0",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/robbie-111/atlas-image.git"
+    },
+    "keywords": [
+        "ugui",
+        "image",
+        "sprite",
+        "spriteatlas",
+        "atlas"
+    ],
+    "dependencies": {
+        "com.unity.ugui": "2.0.0",
+        "com.unity.2d.sprite": "1.0.0"
+    },
+    "samples": [
+        {
+            "displayName": "AtlasImage Sample",
+            "description": "Selects and displays sprites from a SpriteAtlas with AtlasImage, and switches sprites by name from UI buttons.",
+            "path": "Samples~/AtlasImageSample"
+        }
+    ]
+}
